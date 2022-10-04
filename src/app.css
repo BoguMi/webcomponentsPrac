@@ -1,0 +1,26 @@
+h1 {
+    color: rgb(0, 112, 210);
+}
+p {
+    font-family: 'Salesforce Sans', Arial, sans-serif;
+    color: rgb(62, 62, 60);
+}
+.app {
+    background-color: #fafaf9;
+    height: 100vh;
+    overflow: scroll;
+}
+
+/*
+img.product {
+    width: 100%;
+    margin-bottom: 0.5rem;
+}
+
+section {
+    font-weight: bold;
+    font-size: 0.85rem;
+    margin-top: 0.75rem;
+    text-transform: uppercase;
+}
+*/
